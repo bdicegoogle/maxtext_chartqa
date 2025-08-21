@@ -78,7 +78,7 @@ Key settings in `.env`:
 
 ## 💰 Cost Considerations
 
-- **TPU Usage:** ~$1-3 per hour depending on type
+- **TPU Usage:** pricing is available at : https://cloud.google.com/tpu/pricing?hl=en 
 - **Storage:** Minimal costs for model checkpoints
 - **Duration:** 2-4 hours for complete pipeline
 
